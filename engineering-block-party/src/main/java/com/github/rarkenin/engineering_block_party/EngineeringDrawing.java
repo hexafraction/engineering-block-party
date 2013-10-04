@@ -40,7 +40,7 @@ public class EngineeringDrawing {
 	public class Point {
 		View view;
 		public long ticksX;
-		public long ticksY;
+		public long ticksY; 
 		ArrayList<Line> lines;
 	}	
 
